@@ -1,0 +1,15 @@
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adaugare_cons.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adaugare_pac.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cautare_pac.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fisa_afec.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fisa_pac.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Autentificare.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.modificare_cons.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.modificare_pac.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.stergere_cons.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.stergere_pac.resources
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tabit\OneDrive\Desktop\siis1.sem1\bdis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
